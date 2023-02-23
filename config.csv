@@ -10,7 +10,7 @@ payment,opentelemetry-instrumentation-flask,0.29b0,2022-07-19 05:11:55
 payment,opentelemetry-instrumentation-requests,0.29b0,2022-07-19 05:11:55
 payment,requests,2.27.1,2023-01-19 05:11:55
 payment,protobuf,3.20.*,2023-02-19 03:40:15
-api-gateway,api-gateway,flask,2.0.2,2022-07-19 05:11:55
+api-gateway,flask,2.0.2,2022-07-19 05:11:55
 api-gateway,flask-cors,3.0.10,2022-07-19 05:11:55
 api-gateway,gevent,21.12.0,2023-01-19 03:11:55
 api-gateway,gunicorn,20.1.0,2022-12-19 04:11:55
